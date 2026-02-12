@@ -11,9 +11,9 @@
 
         <property name="hibernate.connection.url">jdbc:mysql://localhost:3306/scott</property>
 
-        <property name="hibernate.connection.username">root</property>
+        <property name="hibernate.connection.username"></property>
 
-        <property name="hibernate.connection.password">12345</property>
+        <property name="hibernate.connection.password"></property>
 
         <!-- MySQL Dialect -->
         <property name="hibernate.dialect">
